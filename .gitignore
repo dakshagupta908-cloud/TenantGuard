@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.pytest_cache/
+*.db
+*.sqlite3
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+
+# Environment & Secrets
+.env
+.env.local
+.env.production
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

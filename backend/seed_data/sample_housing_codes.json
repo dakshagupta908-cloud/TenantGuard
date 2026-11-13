@@ -1,0 +1,93 @@
+[
+  {
+    "jurisdiction": "US-NY-NYC",
+    "title": "New York City Housing Maintenance Code - Heat and Hot Water (Sample Excerpts)",
+    "citation_prefix": "NYC Admin. Code",
+    "source_url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-55952",
+    "effective_date": "2023-10-01",
+    "is_active": true,
+    "superseded_by": null,
+    "sections": [
+      {
+        "section_code": "§ 27-2029",
+        "heading": "Minimum Temperature to be Maintained",
+        "text": "During the period from October 1 through May 31, centrally-supplied heat must be provided so that between 6:00 a.m. and 10:00 p.m., when the outside temperature falls below 55 degrees Fahrenheit, the inside temperature is maintained at a minimum of 68 degrees Fahrenheit. Between 10:00 p.m. and 6:00 a.m., the inside temperature must be maintained at a minimum of 62 degrees Fahrenheit."
+      },
+      {
+        "section_code": "§ 27-2031",
+        "heading": "Supply of Hot Water",
+        "text": "Every bath, shower, washbasin and sink in any dwelling unit shall be supplied with hot water at all hours of the day at a constant minimum temperature of 120 degrees Fahrenheit from a central source of supply or instantaneous heater."
+      }
+    ]
+  },
+  {
+    "jurisdiction": "US-NY-NYC",
+    "title": "NY Real Property Law & NYC Habitability Standards (Sample Excerpts)",
+    "citation_prefix": "NY Real Prop. Law / NYC Admin. Code",
+    "source_url": "https://www.nysenate.gov/legislation/laws/RPP/235-B",
+    "effective_date": "2021-01-01",
+    "is_active": true,
+    "superseded_by": null,
+    "sections": [
+      {
+        "section_code": "RPL § 235-b",
+        "heading": "Warranty of Habitability",
+        "text": "In every written or oral lease or rental agreement for residential premises the landlord or lessor shall be deemed to covenant and warrant that the premises so leased or rented and all areas used in connection therewith in common with other tenants or residents are fit for human habitation and for the uses reasonably intended by the parties and that the occupants of such premises shall not be subjected to any conditions which would be dangerous, hazardous or detrimental to their life, health or safety."
+      },
+      {
+        "section_code": "§ 27-2017.3",
+        "heading": "Duty to Keep Free from Mold and Water Leaks",
+        "text": "The owner of a dwelling shall keep the premises free from water leaks, chronic dampness, and indoor mold hazards. Owners must investigate and correct underlying defects including roof leaks, plumbing leaks, and defective moisture barriers within a reasonable timeframe after receiving written or verbal notice from the occupant."
+      },
+      {
+        "section_code": "§ 27-2005 (1998 Prior Rule)",
+        "heading": "Historical Mold & Moisture Notice Provision (Superseded Sample)",
+        "text": "Under prior local regulations, indoor mold remediation thresholds only applied to buildings with 10 or more units without mandatory underlying moisture barrier, roof leak, or water seepage inspection requirements.",
+        "is_active": false,
+        "superseded_by": "NYC Local Law 55 / Admin. Code § 27-2017.3"
+      }
+    ]
+  },
+  {
+    "jurisdiction": "US-CA",
+    "title": "California Civil Code - Tenantable Dwelling Standards (Sample Excerpts)",
+    "citation_prefix": "Cal. Civ. Code",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.1",
+    "effective_date": "2022-01-01",
+    "is_active": true,
+    "superseded_by": null,
+    "sections": [
+      {
+        "section_code": "§ 1941.1",
+        "heading": "Untenantable Dwelling Characteristics",
+        "text": "A dwelling shall be deemed untenantable for purposes of Section 1941 if it substantially lacks any of the following affirmative standard characteristics: (a) Effective waterproofing and weather protection of roof and exterior walls, including unbroken windows and doors. (b) Plumbing or gas facilities that conformed to applicable law in effect at the time of installation, maintained in good working order. (c) A water supply approved under applicable law capable of producing hot and cold running water. (d) Heating facilities maintained in good working order."
+      },
+      {
+        "section_code": "§ 1942",
+        "heading": "Tenant Repair and Deduct Notice Prerequisites",
+        "text": "If within a reasonable time after written or oral notice to the landlord or their agent of dilapidations rendering the premises untenantable which the landlord ought to repair, the landlord neglects to do so, the tenant may repair the same where the cost of such repairs does not require an expenditure more than one month's rent of the premises and deduct the expenses from rent, or vacate the premises. Thirty days is presumed to be a reasonable time for non-emergency repairs."
+      }
+    ]
+  },
+  {
+    "jurisdiction": "IN-KA-BLR",
+    "title": "Karnataka Rent Act, 1999 - Maintenance & Essential Supplies (Sample Summary)",
+    "citation_prefix": "Karnataka Rent Act, 1999",
+    "source_url": "https://www.indiacode.nic.in/",
+    "effective_date": "2001-12-31",
+    "is_active": true,
+    "superseded_by": null,
+    "sections": [
+      {
+        "section_code": "Section 46",
+        "heading": "Landlord Duty to Keep Premises in Good Repair",
+        "text": "Every landlord shall be bound to keep the premises in good and tenantable repair. Where the landlord neglects or fails to make repairs within a reasonable time after written notice from the tenant, the tenant may make such repairs themselves and deduct the cost thereof from the rent or apply to the Controller for permission to make such essential structural, plumbing, or roof seepage repairs."
+      },
+      {
+        "section_code": "Section 47",
+        "heading": "Prohibition of Cutting Off or Withholding Essential Supply or Service",
+        "text": "No landlord either himself or through any person purporting to act on his behalf shall without just and sufficient cause cut off or withhold any essential supply or service enjoyed by the tenant in respect of the premises let to him, including water supply, electricity, sewage drainage, conservatory, and common passages."
+      }
+    ]
+  }
+]
